@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/daixiaojie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_bce89ba07b69e8f0a90c98e6afdd5c6a67a0c438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e19906b8d9808e95e76933f5b0bc74baee240f6">
+        <dex dex="/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53df2cd38b0928c09d41c9972398eb56d5c5a6a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4019801b93840af6caa05ae410a5966f9926baab">
+        <dex dex="/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f4f284eff2a89fa9d7fd473090f76ffd8523924/classes.dex" />
+    </item>
+
+</items>

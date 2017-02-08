@@ -1,0 +1,7 @@
+#Wed Feb 08 16:26:37 CST 2017
+base.0=/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f4f284eff2a89fa9d7fd473090f76ffd8523924
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53df2cd38b0928c09d41c9972398eb56d5c5a6a1/classes.dex
+base.1=/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53df2cd38b0928c09d41c9972398eb56d5c5a6a1
+file.0=/Users/daixiaojie/Downloads/Demo_zhy_06_px_bird_game_blog1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f4f284eff2a89fa9d7fd473090f76ffd8523924/classes.dex
